@@ -11,7 +11,7 @@ An example of scraped table:
 ![image](https://user-images.githubusercontent.com/55450377/157361250-70789260-0dfe-4170-80c8-e14aa88a2267.png)
 
 
-Short summary of the listings:
+Short summary of the listings on 9 Mar 2022:
 ![image](https://user-images.githubusercontent.com/55450377/157387499-5f2d4e0e-a263-409d-9c75-7efb30ee860e.png)
 
 
